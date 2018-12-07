@@ -1,0 +1,57 @@
+
+//    private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
+//            = new BottomNavigationView.OnNavigationItemSelectedListener() {
+//
+//        @Override
+//        public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+//            switch (item.getItemId()) {
+//                case R.id.navigation_home:
+//                    mTextMessage.setText(R.string.title_home);
+//                    return true;
+//                case R.id.navigation_dashboard:
+//                    mTextMessage.setText(R.string.title_dashboard);
+//                    return true;
+//                case R.id.navigation_notifications:
+//                    mTextMessage.setText(R.string.title_notifications);
+//                    return true;
+//            }
+//            return false;
+//        }
+//    };
+//        BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
+//        navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+
+//        mTextMessage = findViewById(R.id.message);
+//        mbottomNavigationView = findViewById(R.id.navigation);
+        
+in latest fragment
+//    private LatestRecyclerViewAdapter latestRecyclerViewAdapter;
+//        ArrayList<Blog> blogArrayList = getArguments().getParcelableArrayList("BlogsArrayList");
+//
+////        This if block handles the empty arrayList received every time the app starts because
+////        the listener attached in the BlogApplication class works async and loads data after sometime
+//        if(blogArrayList.size()==0){
+//            DatabaseReference blogsReference = FirebaseDatabase.getInstance().getReference().child("Blogs");
+//            blogsReference.addListenerForSingleValueEvent(new ValueEventListener() {
+//                @Override
+//                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+//                    latestRecyclerViewAdapter.notifyDataSetChanged();
+//                }
+//
+//                @Override
+//                public void onCancelled(@NonNull DatabaseError databaseError) {
+//                    Toast.makeText(getContext(), "Couldn't connect to the database", Toast.LENGTH_SHORT).show();
+//                }
+//            });
+//        }
+
+//        latestRecyclerViewAdapter = new LatestRecyclerViewAdapter(getContext(),blogArrayList);
+//        recyclerView.setAdapter(latestRecyclerViewAdapter);
+
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/search_image_view"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:onClick="performSearch"-->
+                    <!--android:src="@drawable/ic_search_black_24dp" />-->

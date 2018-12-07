@@ -1,0 +1,53 @@
+MediaType or MimeType
+newsAPI key - 854bd0fae50c44f4a000ea26fb7d2c38
+RxJAVA
+Retrofit
+
+futurestudio.io
+pokeApi 
+
+Use ContentProvider to share sensitive Data
+But Room and liveData provide same functionality but with better expierience.
+
+*All android components need to be registered in the manifest.
+
+* WorkManager is very powerfull when compared to Services, Job Scheduler & Alarms.
+BUT workManager cannot be used to update UI directly. 
+
+APIs :-
+AppIntro
+TapTargetView
+
+Pagination
+
+Use Preferences for implementing Settings page
+
+Shared Preferences
+status Bar Color (notifications)
+MaterialDateTimePicker
+
+metaData, logoutFromAll
+Splash Screen
+viewModel
+
+Do not share google-servics.json on github
+
+
+"elog"
+Android Arsenal website for libraries info
+
+Roman Numeric ... Android asset
+
+easyImage (gallery etc. Image picker)
+
+Anko - kotlin 
+search for - styling Android
+futurestudio.io - for retrofit tutorials
+realm.io  -for RxJava
+podcasts like The Context, Talkiing kotlin, Fragmented - use apps googlcoding-blocks/e podcast, Player fm.
+
+GSoC-info-Android
+PLAID app 
+
+
+Add OnChildAdded in database ref in the app's onCreate

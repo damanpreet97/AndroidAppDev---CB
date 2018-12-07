@@ -1,0 +1,136 @@
+
+https://martinfitzpatrick.name/article/add-git-branch-name-to-terminal-prompt-mac/
+
+scanner delimiter => 
+https://www.tutorialspoint.com/java/util/scanner_usedelimiter_string.htm
+
+
+API => 
+https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82
+
+
+JSON => 
+1. https://www.w3schools.com/js/js_json_intro.asp
+
+        2. https://developers.squarespace.com/what-is-json
+
+
+NewsAPI => 
+https://newsapi.org/
+
+
+JSONformatter =>
+https://jsonformatter.curiousconcept.com/
+
+
+More APIs =>
+https://github.com/abhishekbanthia/Public-APIs
+
+
+Github User search API =>
+https://developer.github.com/v3/search/
+
+Articles by Harshit sir :
+
+=> https://medium.com/coding-blocks/goodbye-findviewbyid-say-hello-to-synthetic-binding-in-kotlin-d3727bd8438e
+
+=> https://medium.com/coding-blocks/leveraging-the-power-of-functions-in-kotlin-de5fd9db065a
+
+=> https://medium.com/coding-blocks/removing-repetitive-java-code-with-kotlin-40459726412d
+
+=> https://medium.com/coding-blocks/making-asynctask-obsolete-with-kotlin-5fe1d944d69
+
+
+
+Tutorials :
+
+=> https://www.programiz.com/kotlin-programming
+
+=> http://kotlinlang.org/docs/reference/android-overview.html
+
+=> https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR
+
+=> https://www.youtube.com/watch?v=X1RVYt2QKQE&t=386s
+
+=> https://www.youtube.com/watch?v=H_oGi8uuDpA&t=1568s
+
+
+
+Reference for today's class :
+
+=> https://github.com/avcbcoder/Journey-to-Kotlin-Syntax
+
+=> https://github.com/avcbcoder/Android-cb.lk-Noida
+
+
+
+Practice Kotlin : 
+
+=> https://try.kotlinlang.org/#/Kotlin%20Koans/Introduction/Hello,%20world!/Task.kt
+
+=> https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt
+
+
+https://futurestud.io/
+
+
+Square libraries : 
+http://square.github.io/
+
+
+OKHTTP           :
+ http://square.github.io/okhttp/
+
+
+Test server      : http://ptsv2.com/
+
+GSON
+https://github.com/google/gson
+
+
+Pokemon API      : 
+https://pokeapi.co/
+
+
+https://developer.android.com/training/data-storage/room/
+
+https://projectlombok.org/
+
+http://inloop.github.io/sqlite-viewer/
+
+https://developer.android.com/topic/libraries/architecture/adding-components
+
+https://developer.android.com/topic/libraries/architecture/livedata
+
+https://developer.android.com/topic/libraries/architecture/viewmodel
+
+
+
+https://github.com/firebase/FirebaseUI-Android/blob/master/auth/README.md
+
+https://firebase.google.com/docs/reference/android/com/google/firebase/auth/FirebaseAuth#add
+AuthStateListener (com.google.firebase.auth.FirebaseAuth.AuthStateListener)
+
+https://github.com/jkwiecien/EasyImage
+
+https://android-arsenal.com/
+
+https://github.com/wasabeef/awesome-android-ui
+
+https://github.com/CameraKit/camerakit-android
+
+https://github.com/the-dagger/MLKitAndroid
+
+https://developer.android.com/jetpack/
+
+https://developer.android.com/topic/libraries/architecture/navigation/navigation-migrate
+
+https://github.com/coding-blocks/GSoC-Info-Android
+
+https://blog.stylingandroid.com/
+
+Retrofit : https://futurestud.io/
+https://academy.realm.io/
+
+
+https://developer.android.com/reference/android/app/AlarmManager

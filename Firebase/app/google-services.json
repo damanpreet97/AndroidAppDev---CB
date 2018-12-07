@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270647935714",
+    "firebase_url": "https://fir-demo-b78d8.firebaseio.com",
+    "project_id": "fir-demo-b78d8",
+    "storage_bucket": "fir-demo-b78d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270647935714:android:0ce4aaae3584ce4b",
+        "android_client_info": {
+          "package_name": "com.example.delllatitude.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270647935714-g5l0knjod96hge4r1lcrlsvr02ufr68s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delllatitude.firebase",
+            "certificate_hash": "70d887d794abd7d773cd90d8b6e29c15749509ee"
+          }
+        },
+        {
+          "client_id": "270647935714-dv118e56sehnqm0irkgj0ck44gakkjf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2_s4KGUZzi8Dm5f5vkf5EWVVtuKc6xXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270647935714-dv118e56sehnqm0irkgj0ck44gakkjf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

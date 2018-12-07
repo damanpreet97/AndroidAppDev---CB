@@ -1,0 +1,1 @@
+resolve runtime error :- Performing stop of activity that is not resumed : MainActivity
